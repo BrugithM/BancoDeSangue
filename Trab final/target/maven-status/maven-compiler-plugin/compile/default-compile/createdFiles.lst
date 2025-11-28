@@ -1,0 +1,15 @@
+com\example\aula\controller\PessoaController.class
+com\example\aula\repository\PessoaRepository.class
+com\example\aula\model\Pessoa.class
+com\example\aula\service\PessoaService.class
+com\example\aula\config\SwaggerConfig.class
+com\example\aula\model\Endereco.class
+com\example\aula\dto\PessoaDTO.class
+com\example\aula\dto\PessoaDTO$PessoaDTOBuilder.class
+com\example\aula\mapper\PessoaMapper.class
+com\example\aula\model\Documento.class
+com\example\aula\AulaApplication.class
+com\example\aula\model\TipoSanguineo.class
+com\example\aula\exception\GlobalExceptionHandler.class
+com\example\aula\model\Filiacao.class
+com\example\aula\model\Contato.class
